@@ -3,7 +3,7 @@ Hola Soy Victor
  - Me gusta leer
  - Jugar videojuegos 
 
-	```
+```
 {
   "firstName": "John",
   "lastName": "Smith",
@@ -16,7 +16,7 @@ Hola Soy Victor
 | Header | Title |
 | Paragraph | Text |
 
-	Here's a sentence with a footnote. [^1]
+Here's a sentence with a footnote. [^1]
 
 [^1]: This is the footnote.
 
