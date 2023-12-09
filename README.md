@@ -1,2 +1,4 @@
 # HelLoWorld
-Este es mi primer REPO
+Hola Soy Victor
+ - Me gusta leer
+ - Jugar videojuegos 
